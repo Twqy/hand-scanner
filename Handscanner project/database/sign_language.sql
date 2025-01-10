@@ -1,0 +1,1 @@
+-- SQL script for creating the database schema
