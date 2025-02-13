@@ -57,7 +57,7 @@ Real-time hand tracking and inference using the MediaPipe library and OpenCV.
 
 ### Usage
 
-Run the following command to start the hand tracker:
+Run the following command to start the hand tracker(exit by pressing the ESC key):
 
 ```sh
 python main.py
