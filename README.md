@@ -1,10 +1,10 @@
 # Real-time Hand Scanner
 
 **About**:  
-I used OpenCV and MediaPipe to create a real-time hand tracker that creates an outline of your hand, making connections between your finger joints and fingertips while a hand is detected in the camera.
+I used OpenCV and MediaPipe to create a real-time hand tracker that creates an outline of your hand, connecting your finger joints and fingertips while a hand is detected in the camera.
 
 **Goal**:  
-I hope to have a finalized version to interpret hand signs using a machine-learning classifier. I would need to train this model and make it return what it recognizes.
+I hope to have a finalized version to interpret hand signs using a machine-learning classifier. I need to train this model and make it return what it recognizes.
 
 This is something I'm pretty excited to learn about. At the moment, I have only implemented the hand tracker.
 
@@ -14,7 +14,7 @@ Real-time hand tracking and inference using the MediaPipe library and OpenCV.
 
 ### Requirements
 
-- Python 3.7 or later
+- Python 3.7 or later(not all python releases are compatible with pip, I use 3.11.0)
 - OpenCV
 - MediaPipe
 
