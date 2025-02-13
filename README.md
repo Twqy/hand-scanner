@@ -8,6 +8,7 @@ I hope to have a finalized version to interpret hand signs using a machine-learn
 
 This is something I'm pretty excited to learn about. At the moment, I have only implemented the hand tracker.
 
+# Demo Video
 ![Image](https://github.com/user-attachments/assets/99adfd48-a0f3-4478-8e95-5c333ec29a38)
 
 ## Download Instructions
