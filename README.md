@@ -8,7 +8,7 @@ I hoped to have a finalized version to interpret hand signs using a machine-lear
 This is something I'm pretty excited to learn about
 At the moment I have only implemented the hand tracker
 
-# Handscanner Project
+# Download instructions
 
 Real-time hand tracking and inference using the MediaPipe library and OpenCV.
 
