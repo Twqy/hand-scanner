@@ -62,6 +62,5 @@ Run the following command to start the hand tracker(exit by pressing the ESC key
 ```sh
 python main.py
 
-
-https://github.com/user-attachments/assets/0a21a519-884d-4f40-afa9-502dfc0a013d
+https://github.com/user-attachments/assets/dff0fefd-c044-4dff-ab69-696c2bde01ff
 
