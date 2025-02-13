@@ -21,4 +21,11 @@ while True:
             mp_drawing.draw_landmarks(
                 image, hand_landmarks, mphands.HAND_CONNECTIONS)
     cv2.imshow('Handtracker', image)
-    cv2.waitKey(1)
+    
+    # Exit the loop when 'ESC' key is pressed
+    if cv2.waitKey(1) & 0xFF == 27:
+        break
+
+# Release the video capture object and close all OpenCV windows
+cap.release()
+cv2.destroyAllWindows()
