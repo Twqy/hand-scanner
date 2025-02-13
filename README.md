@@ -8,6 +8,8 @@ I hope to have a finalized version to interpret hand signs using a machine-learn
 
 This is something I'm pretty excited to learn about. At the moment, I have only implemented the hand tracker.
 
+![Image](https://github.com/user-attachments/assets/99adfd48-a0f3-4478-8e95-5c333ec29a38)
+
 ## Download Instructions
 
 Real-time hand tracking and inference using the MediaPipe library and OpenCV.
@@ -61,5 +63,3 @@ Run the following command to start the hand tracker(exit by pressing the ESC key
 
 ```sh
 python main.py
-
-![Image](https://github.com/user-attachments/assets/99adfd48-a0f3-4478-8e95-5c333ec29a38)
