@@ -61,3 +61,5 @@ Run the following command to start the hand tracker(exit by pressing the ESC key
 
 ```sh
 python main.py
+
+https://github.com/Twqy/hand-scanner/issues/2#issue-2850246703
